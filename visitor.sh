@@ -19,6 +19,6 @@ time_total)
 		time_total
 ;;
 *)
-echo "目前只支持 http_code 和 time_total 两个参数"
+echo "usage : RUN this script whith http_code or time_total"
 ;;
 esac
